@@ -53,8 +53,8 @@ def tlogin():
 	    os.system('clear')
 	    print(logo)
 	    print "[✓] TOOL USERNAME: "+username+ " (correct)"
-	else:
-	    print " Invalid Username".
+	else: 
+	
 	    time.sleep(1)
 	    tlogin()
 	    

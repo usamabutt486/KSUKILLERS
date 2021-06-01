@@ -54,7 +54,7 @@ def tlogin():
 	    print(logo)
 	    print "[✓] TOOL USERNAME: "+username+ " (correct)"
 	else:
-	    print " Invalid Username.
+	    print " Invalid Username".
 	    time.sleep(1)
 	    tlogin()
 	    
